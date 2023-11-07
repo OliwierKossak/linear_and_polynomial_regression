@@ -11,5 +11,5 @@ Next I used dropna to removed rows with null values.
 3. Model is trained and next is evaluate
 4. Used matplotlib to draw a chart
 # 3 Polynomial Regression Degree=2
-1 Data are trained and transformed for polynomial regression
-2 Model of linear regression use transformed data to make predictions
+1. Data are trained and transformed for polynomial regression
+2. Model of linear regression use transformed data to make predictions
